@@ -80,7 +80,7 @@ Added .gitignore
 
 commit 23f3e99d08b094fc5399f67e70b97b15ff8e62f8
 Author: elpidifor <elpidifor011@yandex.ru>
-Date:   Thu May 31 11:15:21 2018 +0300
+Date:   Thu September 18 11:15:21 2018 +0300
 
 Added README.md
 
